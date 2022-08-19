@@ -137,7 +137,6 @@ body {
 .productCard {
   display: flex;
 }
-
 .align {
   display: flex;
   justify-content: space-between;
